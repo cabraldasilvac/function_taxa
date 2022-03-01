@@ -1,4 +1,5 @@
-// Calcula valor com taxa de maquininha.
+// Calcula valor com taxa de maquininha de Cartão.
+
 // A taxa é definida no HTML
 function id(tx) {
     return document.getElementById(tx);

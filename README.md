@@ -2,4 +2,4 @@
 
 <h2>Calcula o valor a receber incluindo a taxa de cartão cobrada na maquininha.</h2>
 
-Este projeto contém arquivos HTML, JS e CSS.
+<h3>Este projeto contém arquivos HTML, JS e CSS.</h3>

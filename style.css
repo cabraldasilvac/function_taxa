@@ -26,7 +26,7 @@ body {
     font-family: sans-serif;
     font-size: 1em;
     color: #0956c9;
-    margin-left: 36%;
+    margin-left: 3%;
     margin-top: 2%;
     justify-content: center;
 }
@@ -42,6 +42,7 @@ button {
 
 .footer {
     font-family: monospace;
+    font-size: large;
     position: absolute;
     bottom: 2%;
     width: 100%;
